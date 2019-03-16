@@ -3,4 +3,5 @@ description: My notes in learning the French language
 author: #
 baseurl: /notes-de-langue
 
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+
