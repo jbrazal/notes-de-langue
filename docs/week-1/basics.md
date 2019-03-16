@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Basics
-parent: "week-1"
+parent: My First Week
 ---
 
 # Greetings
