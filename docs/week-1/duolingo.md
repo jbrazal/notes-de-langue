@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Week 1"
+title: "Duolingo"
 nav_order: 2
 parent: My First Week
 ---
