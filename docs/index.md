@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Notes de Langue
 description: My French language notes
 ---
